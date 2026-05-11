@@ -1,0 +1,67 @@
+{
+  "Ather": {
+    "Bike": [],
+    "Scooty": [],
+    "Electric": ["450X", "450S"]
+  },
+  "Bajaj": {
+    "Bike": ["Pulsar NS200", "Pulsar 150", "Dominar 400", "Avenger 220", "Pulsar N250"],
+    "Scooty": [],
+    "Electric": ["Chetak Electric"]
+  },
+  "Honda": {
+    "Bike": ["Shine", "Hornet 2.0", "Unicorn"],
+    "Scooty": ["Activa 6G", "Grazia", "Dio"],
+    "Electric": []
+  },
+  "TVS": {
+    "Bike": ["Apache RR 310", "Apache RTR 160", "Apache RTR 200", "Ronin", "Raider 125"],
+    "Scooty": ["Jupiter", "NTorq 125", "Zest 110"],
+    "Electric": ["iQube"]
+  },
+  "KTM": {
+    "Bike": ["Duke 200", "Duke 390", "RC 200", "RC 390"],
+    "Scooty": [],
+    "Electric": []
+  },
+  "Oben": {
+    "Bike": [],
+    "Scooty": [],
+    "Electric": ["Rorr"]
+  },
+  "Ola": {
+    "Bike": [],
+    "Scooty": [],
+    "Electric": ["S1", "S1 Pro", "S1 Air"]
+  },
+  "Revolt": {
+    "Bike": [],
+    "Scooty": [],
+    "Electric": ["RV400"]
+  },
+  "Yamaha": {
+    "Bike": ["FZ-S", "R15 V4", "MT-15", "FZ-X"],
+    "Scooty": ["Fascino 125", "Ray ZR 125"],
+    "Electric": []
+  },
+  "Royal Enfield": {
+    "Bike": ["Classic 350", "Meteor 350", "Hunter 350", "Bullet 350", "Himalayan"],
+    "Scooty": [],
+    "Electric": []
+  },
+  "Suzuki": {
+    "Bike": ["Gixxer", "Gixxer SF"],
+    "Scooty": ["Burgman Street", "Access 125", "Avenis 125"],
+    "Electric": []
+  },
+  "Tork": {
+    "Bike": [],
+    "Scooty": [],
+    "Electric": ["Kratos", "Kratos R"]
+  },
+  "Ultraviolet": {
+    "Bike": [],
+    "Scooty": [],
+    "Electric": ["F77"]
+  }
+}

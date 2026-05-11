@@ -1,0 +1,13 @@
+/* src/globals.css */
+@layer utilities {
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 6px;
+  }
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.1); /* Replace with your brand color if needed */
+    border-radius: 10px;
+  }
+}
