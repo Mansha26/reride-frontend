@@ -11,3 +11,7 @@
     border-radius: 10px;
   }
 }
+
+.swiper {
+  z-index: 0 !important;
+}
